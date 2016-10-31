@@ -21,7 +21,7 @@ Helpful links:
 * build it for either iOS or Android:
   `react-native run-android` or `react-native run-ios`.
 
-* apply some minor styling[list view](https://facebook.github.io/react-native/docs/style.html) to make things look decent.
+* apply some minor [styling](https://facebook.github.io/react-native/docs/style.html) to make things look decent.
 
 ## Step 2
 
