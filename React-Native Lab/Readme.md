@@ -21,7 +21,7 @@ Helpful links:
 * build it for either iOS or Android:
   `react-native run-android` or `react-native run-ios`.
 
-* apply some minor styling to make things look decent.
+* apply some minor styling[list view](https://facebook.github.io/react-native/docs/style.html) to make things look decent.
 
 ## Step 2
 
@@ -32,6 +32,7 @@ Helpful links:
 * awesome, but now we still need to add some sort of second screen and a way to transition between the screens (and a press state to indicate that this item is tappable!) let's wrap our repository item with a [TouchableHighlight](https://facebook.github.io/react-native/docs/touchablehighlight.html).
 
 * great, so now we have a pressed state - let's make a `RepositoryDetails` screen which we show when this is tapped.
+
 * finally, let's support back on Android - both in terms of using `BackAndroid` to support a back button press, and by adding an up button of sorts to the Toolbar.
 
 ## Step 3
